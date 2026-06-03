@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="IssueFlow.Domain\IssueFlow.Domain.csproj" />
+  <Project Path="IssueFlow.Application\IssueFlow.Application.csproj" />
+  <Project Path="IssueFlow.Infrastructure\IssueFlow.Infrastructure.csproj" />
+  <Project Path="IssueFlow.API\IssueFlow.API.csproj" />
+</Solution>

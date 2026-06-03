@@ -1,0 +1,22 @@
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net10.0\IssueFlow.Domain.deps.json
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net10.0\IssueFlow.Domain.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.AssemblyInfoInputs.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.AssemblyInfo.cs
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\refint\IssueFlow.Domain.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\ref\IssueFlow.Domain.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net10.0\IssueFlow.Domain.deps.json
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net10.0\IssueFlow.Domain.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.AssemblyInfo.cs
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\refint\IssueFlow.Domain.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\ref\IssueFlow.Domain.dll

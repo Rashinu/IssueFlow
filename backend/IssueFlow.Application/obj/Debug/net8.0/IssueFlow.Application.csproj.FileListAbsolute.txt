@@ -1,0 +1,15 @@
+C:\Projects\IssueFlow\backend\IssueFlow.Application\bin\Debug\net8.0\IssueFlow.Application.deps.json
+C:\Projects\IssueFlow\backend\IssueFlow.Application\bin\Debug\net8.0\IssueFlow.Application.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Application\bin\Debug\net8.0\IssueFlow.Application.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Application\bin\Debug\net8.0\IssueFlow.Domain.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Application\bin\Debug\net8.0\IssueFlow.Domain.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\IssueFlow.Application.csproj.AssemblyReference.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\IssueFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\IssueFlow.Application.AssemblyInfoInputs.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\IssueFlow.Application.AssemblyInfo.cs
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\IssueFlow.Application.csproj.CoreCompileInputs.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\IssueFlo.DCA3836A.Up2Date
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\IssueFlow.Application.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\refint\IssueFlow.Application.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\IssueFlow.Application.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Application\obj\Debug\net8.0\ref\IssueFlow.Application.dll

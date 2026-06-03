@@ -1,0 +1,11 @@
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net8.0\IssueFlow.Domain.deps.json
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net8.0\IssueFlow.Domain.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net8.0\IssueFlow.Domain.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net8.0\IssueFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net8.0\IssueFlow.Domain.AssemblyInfoInputs.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net8.0\IssueFlow.Domain.AssemblyInfo.cs
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net8.0\IssueFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net8.0\IssueFlow.Domain.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net8.0\refint\IssueFlow.Domain.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net8.0\IssueFlow.Domain.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net8.0\ref\IssueFlow.Domain.dll

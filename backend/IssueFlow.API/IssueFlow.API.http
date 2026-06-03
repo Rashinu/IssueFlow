@@ -1,0 +1,6 @@
+@IssueFlow.API_HostAddress = http://localhost:5174
+
+GET {{IssueFlow.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

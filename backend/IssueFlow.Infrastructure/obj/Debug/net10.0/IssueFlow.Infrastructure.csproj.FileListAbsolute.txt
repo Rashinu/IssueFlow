@@ -1,0 +1,38 @@
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.deps.json
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.runtimeconfig.json
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Application.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Domain.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Application.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.AssemblyInfo.cs
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlo.C31204EE.Up2Date
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\refint\IssueFlow.Infrastructure.dll
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.pdb
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.genruntimeconfig.cache
+C:\Projects\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\ref\IssueFlow.Infrastructure.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.deps.json
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.runtimeconfig.json
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.pdb
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Application.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Domain.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Application.pdb
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlo.C31204EE.Up2Date
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\refint\IssueFlow.Infrastructure.dll
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.pdb
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.genruntimeconfig.cache
+C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\ref\IssueFlow.Infrastructure.dll
