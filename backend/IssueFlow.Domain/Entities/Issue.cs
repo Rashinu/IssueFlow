@@ -13,6 +13,12 @@ public class Issue : BaseEntity
     public Priority Priority { get; set; } = Priority.Medium;
     public Guid? AssignedUserId { get; set; }
     public User? AssignedUser { get; set; }
+    
+    public string? TaskUrl { get; set; }
+
+    public string? SupportPerson { get; set; }
+
+    public string? SupportDate { get; set; }
 
     public User? CreatedByUser { get; set; }
 

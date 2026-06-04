@@ -98,7 +98,26 @@ export default function IssueDetailPage() {
           </div>
         </div>
 
-        <p className="text-gray-600 text-sm leading-relaxed">{issue.description}</p>
+        {(() => {
+          const parsed = parseDescription(issue.description)
+          return (
+            <>
+              {parsed.text && (
+                <p className="text-gray-600 text-sm leading-relaxed">{parsed.text}</p>
+              )}
+              {parsed.taskUrl && (
+                <a
+                  href={parsed.taskUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 text-sm text-blue-600 hover:underline"
+                >
+                  📎 Task bağlantısı
+                </a>
+              )}
+            </>
+          )
+        })()}
 
         <div className="grid grid-cols-2 gap-4 pt-2 border-t border-gray-100">
           <div>
@@ -119,6 +138,25 @@ export default function IssueDetailPage() {
               {new Date(issue.createdAt).toLocaleDateString('tr-TR')}
             </p>
           </div>
+          {(() => {
+            const parsed = parseDescription(issue.description)
+            return (
+              <>
+                {parsed.destek && (
+                  <div>
+                    <p className="text-xs text-gray-400 mb-1">Destek</p>
+                    <p className="text-sm font-medium text-gray-700">{parsed.destek}</p>
+                  </div>
+                )}
+                {parsed.tarih && (
+                  <div>
+                    <p className="text-xs text-gray-400 mb-1">Tarih</p>
+                    <p className="text-sm font-medium text-gray-700">{parsed.tarih}</p>
+                  </div>
+                )}
+              </>
+            )
+          })()}
           <div>
             <p className="text-xs text-gray-400 mb-2">Durum</p>
             <select
@@ -180,6 +218,25 @@ export default function IssueDetailPage() {
       </div>
     </div>
   )
+}
+
+function parseDescription(text: string) {
+  const taskMatch = text.match(/📎\s*Task:\s*(https?:\/\/\S+)/)
+  const destekMatch = text.match(/👤\s*Destek:\s*([^📅\n]+)/)
+  const tarihMatch = text.match(/📅\s*Tarih:\s*(\S+)/)
+
+  const clean = text
+    .replace(/📎\s*Task:\s*https?:\/\/\S+/g, '')
+    .replace(/👤\s*Destek:\s*[^📅\n]*/g, '')
+    .replace(/📅\s*Tarih:\s*\S+/g, '')
+    .trim()
+
+  return {
+    text: clean,
+    taskUrl: taskMatch?.[1],
+    destek: destekMatch?.[1]?.trim(),
+    tarih: tarihMatch?.[1],
+  }
 }
 
 function CommentItem({ comment }: { comment: Comment }) {

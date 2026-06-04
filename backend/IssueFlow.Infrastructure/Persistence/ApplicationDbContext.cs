@@ -22,7 +22,7 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
 
         modelBuilder.Entity<Issue>()
             .HasOne(i => i.AssignedUser)
-            .WithMany()
+            .WithMany(u => u.AssignedIssues)
             .HasForeignKey(i => i.AssignedUserId)
             .OnDelete(DeleteBehavior.SetNull);
 

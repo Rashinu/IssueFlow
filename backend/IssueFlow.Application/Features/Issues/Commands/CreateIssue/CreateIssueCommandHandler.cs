@@ -1,5 +1,6 @@
 using IssueFlow.Application.Common.Interfaces;
 using IssueFlow.Domain.Entities;
+using System.Text.RegularExpressions;
 using MediatR;
 
 namespace IssueFlow.Application.Features.Issues.Commands.CreateIssue;
@@ -14,7 +15,8 @@ public class CreateIssueCommandHandler : IRequestHandler<CreateIssueCommand, Gui
         _db = db;
         _currentUser = currentUser;
     }
-
+     
+     
     public async Task<Guid> Handle(CreateIssueCommand request, CancellationToken cancellationToken)
     {
         var issue = new Issue
@@ -26,6 +28,9 @@ public class CreateIssueCommandHandler : IRequestHandler<CreateIssueCommand, Gui
             AssignedUserId = request.AssignedUserId,
             CreatedByUserId = _currentUser.UserId,
         };
+        var desc = request.Description ?? "";
+        issue.TaskUrl = Regex.Match(desc, @"📎\s*Task:\s*(https?://\S+)").Groups[1].Value is { Length: > 0 } t ? t : null;
+
         _db.Issues.Add(issue);
         await _db.SaveChangesAsync(cancellationToken);
         return issue.Id;
