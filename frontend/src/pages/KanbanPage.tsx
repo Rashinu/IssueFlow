@@ -173,13 +173,18 @@ function NewIssueForm({ onClose, onCreated }: NewIssueFormProps) {
   const [description, setDescription] = useState('')
   const [hotelId, setHotelId] = useState('')
   const [priority, setPriority] = useState<Priority>('Medium')
+  const [assignedUserId, setAssignedUserId] = useState('')
   const [hotels, setHotels] = useState<Hotel[]>([])
+  const [users, setUsers] = useState<{ id: string; name: string }[]>([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
 
   useEffect(() => {
     api.get<Hotel[]>('/hotels')
       .then(r => { setHotels(r.data); if (r.data.length) setHotelId(r.data[0].id) })
+      .catch(() => {})
+    api.get<{ id: string; name: string }[]>('/users')
+      .then(r => setUsers(r.data))
       .catch(() => {})
   }, [])
 
@@ -188,7 +193,7 @@ function NewIssueForm({ onClose, onCreated }: NewIssueFormProps) {
     setError('')
     setLoading(true)
     try {
-      await api.post('/issues', { title, description, hotelId, priority })
+      await api.post('/issues', { title, description, hotelId, priority, assignedUserId: assignedUserId || null })
       onCreated()
     } catch {
       setError('Issue oluşturulamadı.')
@@ -241,6 +246,16 @@ function NewIssueForm({ onClose, onCreated }: NewIssueFormProps) {
               <option value="Medium">Orta</option>
               <option value="High">Yüksek</option>
               <option value="Critical">Kritik</option>
+            </select>
+          </div>
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">Atanan Kişi</label>
+            <select
+              value={assignedUserId} onChange={e => setAssignedUserId(e.target.value)}
+              className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+            >
+              <option value="">— Atanmadı —</option>
+              {users.map(u => <option key={u.id} value={u.id}>{u.name}</option>)}
             </select>
           </div>
           {error && <p className="text-red-600 text-sm">{error}</p>}

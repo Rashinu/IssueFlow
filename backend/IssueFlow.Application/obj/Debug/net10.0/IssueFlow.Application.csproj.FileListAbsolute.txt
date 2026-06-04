@@ -28,3 +28,19 @@ C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Applicatio
 C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\refint\IssueFlow.Application.dll
 C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlow.Application.pdb
 C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\ref\IssueFlow.Application.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlow.Application.csproj.AssemblyReference.cache
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlow.Application.AssemblyInfoInputs.cache
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlow.Application.AssemblyInfo.cs
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlow.Application.csproj.CoreCompileInputs.cache
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlow.Application.sourcelink.json
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlow.Application.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\refint\IssueFlow.Application.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlow.Application.pdb
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\bin\Debug\net10.0\IssueFlow.Application.deps.json
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\bin\Debug\net10.0\IssueFlow.Application.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\bin\Debug\net10.0\IssueFlow.Application.pdb
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\bin\Debug\net10.0\IssueFlow.Domain.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\bin\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\IssueFlo.DCA3836A.Up2Date
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Application\obj\Debug\net10.0\ref\IssueFlow.Application.dll

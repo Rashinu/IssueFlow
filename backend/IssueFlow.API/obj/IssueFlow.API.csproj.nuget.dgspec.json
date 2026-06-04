@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.API\\IssueFlow.API.csproj": {}
+    "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.API\\IssueFlow.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.API\\IssueFlow.API.csproj": {
+    "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.API\\IssueFlow.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.API\\IssueFlow.API.csproj",
+        "projectUniqueName": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.API\\IssueFlow.API.csproj",
         "projectName": "IssueFlow.API",
-        "projectPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.API\\IssueFlow.API.csproj",
-        "packagesPath": "C:\\Users\\Murat Keskin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.API\\obj\\",
+        "projectPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.API\\IssueFlow.API.csproj",
+        "packagesPath": "C:\\Users\\SemihYunusoğlu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Murat Keskin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\SemihYunusoğlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,14 +24,13 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj": {
-                "projectPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj"
+              "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj": {
+                "projectPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj"
               },
-              "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj"
+              "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj"
               }
             }
           }
@@ -46,11 +45,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
@@ -97,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -515,17 +513,17 @@
         }
       }
     },
-    "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj": {
+    "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj",
+        "projectUniqueName": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj",
         "projectName": "IssueFlow.Application",
-        "projectPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj",
-        "packagesPath": "C:\\Users\\Murat Keskin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Application\\obj\\",
+        "projectPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj",
+        "packagesPath": "C:\\Users\\SemihYunusoğlu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Murat Keskin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\SemihYunusoğlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -535,11 +533,10 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj": {
-                "projectPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj"
+              "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj": {
+                "projectPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj"
               }
             }
           }
@@ -554,11 +551,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "FluentValidation": {
@@ -598,7 +594,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -876,17 +872,17 @@
         }
       }
     },
-    "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj": {
+    "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj",
         "projectName": "IssueFlow.Domain",
-        "projectPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj",
-        "packagesPath": "C:\\Users\\Murat Keskin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Domain\\obj\\",
+        "projectPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Domain\\IssueFlow.Domain.csproj",
+        "packagesPath": "C:\\Users\\SemihYunusoğlu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Murat Keskin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\SemihYunusoğlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -896,7 +892,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -911,11 +906,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -933,7 +927,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1211,17 +1205,17 @@
         }
       }
     },
-    "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj": {
+    "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj",
         "projectName": "IssueFlow.Infrastructure",
-        "projectPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Murat Keskin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Infrastructure\\IssueFlow.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\SemihYunusoğlu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Murat Keskin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\SemihYunusoğlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -1231,11 +1225,10 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj": {
-                "projectPath": "C:\\Users\\Murat Keskin\\Downloads\\IssueFlow\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj"
+              "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj": {
+                "projectPath": "C:\\Users\\SemihYunusoğlu\\Documents\\GitHub\\IssueFlow\\backend\\IssueFlow.Application\\IssueFlow.Application.csproj"
               }
             }
           }
@@ -1250,11 +1243,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "BCrypt.Net-Next": {
@@ -1298,7 +1290,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

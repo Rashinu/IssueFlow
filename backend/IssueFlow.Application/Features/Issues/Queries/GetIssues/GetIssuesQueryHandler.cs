@@ -15,6 +15,7 @@ public class GetIssuesQueryHandler : IRequestHandler<GetIssuesQuery, List<IssueD
         var query = _db.Issues
             .Include(i => i.Hotel)
             .Include(i => i.AssignedUser)
+            .Include(i => i.CreatedByUser)
             .AsQueryable();
 
         if (request.HotelId.HasValue)
@@ -26,6 +27,7 @@ public class GetIssuesQueryHandler : IRequestHandler<GetIssuesQuery, List<IssueD
                 i.Id, i.Title, i.Description, i.Status, i.Priority,
                 i.Hotel.Name,
                 i.AssignedUser != null ? i.AssignedUser.Name : null,
+                i.CreatedByUser != null ? i.CreatedByUser.Name : null,
                 i.CreatedAt))
             .ToListAsync(cancellationToken);
     }

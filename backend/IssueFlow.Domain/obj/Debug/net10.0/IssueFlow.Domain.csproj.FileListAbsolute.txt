@@ -20,3 +20,15 @@ C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj
 C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\refint\IssueFlow.Domain.dll
 C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.pdb
 C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\ref\IssueFlow.Domain.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net10.0\IssueFlow.Domain.deps.json
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net10.0\IssueFlow.Domain.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\bin\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.AssemblyInfo.cs
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.sourcelink.json
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\refint\IssueFlow.Domain.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Domain\obj\Debug\net10.0\ref\IssueFlow.Domain.dll

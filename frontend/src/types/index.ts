@@ -43,6 +43,8 @@ export interface IssueDetail {
   hotelName: string
   assignedUserId?: string
   assignedUserName?: string
+  createdByUserId?: string
+  createdByUserName?: string
   createdAt: string
   comments: Comment[]
 }

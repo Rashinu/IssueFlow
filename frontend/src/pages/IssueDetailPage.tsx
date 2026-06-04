@@ -110,6 +110,10 @@ export default function IssueDetailPage() {
             <p className="text-sm font-medium text-gray-700">{issue.assignedUserName ?? '—'}</p>
           </div>
           <div>
+            <p className="text-xs text-gray-400 mb-1">Oluşturan</p>
+            <p className="text-sm font-medium text-gray-700">{issue.createdByUserName ?? '—'}</p>
+          </div>
+          <div>
             <p className="text-xs text-gray-400 mb-1">Oluşturulma</p>
             <p className="text-sm font-medium text-gray-700">
               {new Date(issue.createdAt).toLocaleDateString('tr-TR')}

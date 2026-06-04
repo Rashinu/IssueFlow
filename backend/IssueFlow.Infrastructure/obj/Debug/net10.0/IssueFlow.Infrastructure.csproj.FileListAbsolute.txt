@@ -36,3 +36,23 @@ C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastruc
 C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.pdb
 C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.genruntimeconfig.cache
 C:\Users\Murat Keskin\Downloads\IssueFlow\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\ref\IssueFlow.Infrastructure.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\refint\IssueFlow.Infrastructure.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.pdb
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.deps.json
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.runtimeconfig.json
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Infrastructure.pdb
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Application.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Domain.dll
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Application.pdb
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\bin\Debug\net10.0\IssueFlow.Domain.pdb
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.sourcelink.json
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlo.C31204EE.Up2Date
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\IssueFlow.Infrastructure.genruntimeconfig.cache
+C:\Users\SemihYunusoğlu\Documents\GitHub\IssueFlow\backend\IssueFlow.Infrastructure\obj\Debug\net10.0\ref\IssueFlow.Infrastructure.dll
